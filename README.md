@@ -1,7 +1,6 @@
-### Hello 👋
 [![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)](https://JamshidbekYususpov.io)
 <h1 align="center">Hello 👋, I am Jamshidbek</h1>
-<h3 align="center">Passionate about Data Science | Data Analytics | Machine Learning | NLP | LLM | Transformers | RAG |</h3>
+<h3 align="center">Passionate about Data Science | Business Analytics | Machine Learning | NLP | LLM | Transformers | RAG |</h3>
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2017/10/scopet.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamshidbekyusupov&label=Profile%20views&color=0e75b6&style=flat" alt="jamshidbekyusupov" /> </p>
 
@@ -9,11 +8,11 @@
 
 - 🌱 I’m currently working on projects related to **Deep learning, Machine Learning and Implementation AI into Business**
 
-- 💬 Ask me about **Data, Analytics and Information Systems**
+- 💬 Ask me about **Machine Learning, Deep Learning, NLP, LLM, RAG, Business Analytics and Information Systems**
 
-- 📫 How to reach me **j.yusuf@tuit.uz**
+- 📫 How to reach me **j.yusuf@tuit.uz** | **jamusan@kookmin.ac.kr** 
 
-- ⚡ Fun fact **Judoist🥋**
+- ⚡ Fun fact: **Judoist🥋** | **Photography enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
