@@ -1,15 +1,15 @@
-### Hi there 👋
+### Hello 👋
 [![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)](https://JamshidbekYususpov.io)
-<h1 align="center">Hi 👋, I'm Jamshidbek</h1>
-<h3 align="center">A passionate data scientist from Uzbekistan</h3>
+<h1 align="center">Hello 👋, I am Jamshidbek</h1>
+<h3 align="center">Passionate about Data Science | Data Analytics | Machine Learning | NLP | LLM | Transformers | RAG |</h3>
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2017/10/scopet.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamshidbekyusupov&label=Profile%20views&color=0e75b6&style=flat" alt="jamshidbekyusupov" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jamshid_yusuf" target="blank"><img src="https://img.shields.io/twitter/follow/jamshid_yusuf?logo=twitter&style=for-the-badge" alt="jamshid_yusuf" /></a> </p>
 
-- 🌱 I’m currently learning **Deep learning and ML**
+- 🌱 I’m currently working on projects related to **Deep learning, Machine Learning and Implementation AI into Business**
 
-- 💬 Ask me about **Data Visualization, Data Analytics**
+- 💬 Ask me about **Data, Analytics and Information Systems**
 
 - 📫 How to reach me **j.yusuf@tuit.uz**
 
